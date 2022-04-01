@@ -50,15 +50,5 @@ worker_groups = [
     }
   ]
 }
-"Applying an expert understanding of development tools, processes, programming languages and environments to assignments and commiting to code build, integration and deployment automation in cloud environment.
-•	Enabling AWS migration activities through design and development related tasks and architectural engagement.
-•	Lead strategic work across the product suite and utilize application architecture to increase efficiency and effectiveness of complex issues
-•	Provide support for problem and issue resolution, technical consultation and direction to business management and product team members.
-•	Provide direction on product development practices, coding, data and testing standards with core reviews and sofware architecture.
-•	Develop Data analytics applications using big data technologies Spark, Hadoop and Scala. By implementing spark job on financial data using functional programming languages like Scala and Clojure for faster data processing.
-•	Conduct research and integrate industry best practices into processes and potential solutions.
-"
-
-    
     
 
